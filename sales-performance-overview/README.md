@@ -1,5 +1,7 @@
 # Sales Performance Overview
 
+<img width="1303" height="727" alt="overview" src="https://github.com/user-attachments/assets/8c834153-5238-4240-9b26-6d14e8d4d8be" />
+
 ## Overview
 This dashboard provides a high-level overview of sales performance, focusing on revenue, profit, and regional distribution.  
 It is designed for quick executive-level insights rather than deep operational analysis.
